@@ -3,8 +3,8 @@
 I am a student in Autonomous Systems at the University of North Texas, where I participate as a research volunteer for the Vehicle Autonomy and Intelligence Lab.
 
 #### What I'm Working On: 
+🚗 Cooperative Autonomy in CARLA
 🚙 Drive-by-wire vehicle control
-🚘 Electric vehicle sonification
 📖 Writing a Sci-Fi novel
 👶 Raising my child :)
 
